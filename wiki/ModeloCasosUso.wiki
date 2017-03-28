@@ -1,0 +1,46 @@
+#summary Lista de casos de uso do SCA
+
+<img src="http://sca-oo.googlecode.com/files/SCA - Diagrama de Casos de Uso (Figura_04_11).jpg">
+
+----
+==Gerenciamento de Inscrições==
+
+* * Realizar Inscrição (CasoUso01)
+
+* * Cancelar Inscrição (CasoUso00)
+
+* * Visualizar Andamento de Inscrições (CasoUso06)
+
+* * Abrir Turma (CasoUso10) - Coordenador abre uma turma.
+
+* * Fechar Turma (CasoUso11)- Coordenador fecha uma turma.
+
+* * Atender Listas de Espera (CasoUso08)
+
+* * Montar Grade de Horários ()
+
+----
+==Gerenciamento de Recursos Acadêmicos==
+
+* * Manter Grade Curricular (Coordenador define informações sobre uma grade curricular; ver definição deste termo no glossário.)
+
+* * Manter Disciplina (CasoUso05)
+
+* * Manter Aluno
+
+* * Fornecer Grade de Disponibilidades (CasoUso03)
+
+* * Fornecer Habilitações (CasoUso09)
+
+* * Atualizar Informações sobre Professor (CasoUso07)
+
+----
+==Acompanhamento de Semestre Letivo==
+
+* * Visualizar Avaliações (CasoUso02)
+
+* * Lançar Avaliações (CasoUso04)
+
+* * Obter Diário de Classe (CasoUso14)
+
+* * Solicitar Histórico Escolar (CasoUso12)
